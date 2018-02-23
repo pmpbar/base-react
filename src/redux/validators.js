@@ -1,4 +1,4 @@
 import PropTypes from 'prop-types';
 
-export const thingValidator = PropTypes.String;
+export const thingValidator = PropTypes.string;
 
